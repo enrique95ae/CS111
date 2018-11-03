@@ -25,35 +25,42 @@ HW list and description:  </br>
 <b>-HW5 part2:</b> The program ask for an operation, then generates 3 random numbers (0-100) and then waits until the user enters the answer to show if it is correct or not.  
 </br>
 
-<b>-HW :</b>
+<b>-HW 6 part1:</b> Program ask for the number of items sold and the outputs the total of the sale
 </br>
 
-<b>-HW :</b>
+<b>-HW 6 part 2:</b> Input the name of three runners and their fnish time and then displays the name of the runners in order.
 </br>
 
-<b>-HW :</b>
+<b>-HW 6 part 3:</b> Program that shows a menu and depending on the option chosen displays the answer of a geometric operation.
 </br>
 
-<b>-HW :</b>
+<b>-HW 7 part1:</b> program asks for 100 integers. At the end it will output the smallest and greatest of them.
 </br>
 
-<b>-HW :</b>
+<b>-HW 7 part2:</b> The program generates a number between 1 and 100 and then asks the user to guess. The program will keep asking until the right guess is entered.
 </br>
 
-<b>-HW :</b>
+<b>-HW 7 part3:</b >Math tutor menu. the program will display a menu with a variety of math problems. After an option has been chosen it will generate some random values and will ask the user for the answer to a mathematical problem.
 </br>
 
-<b>-HW :</b>
+<b>-HW 8 part1:</b> Loop that generates 10 random intergers and calculates the sum, average, greatest and smallest.
 </br>
 
-<b>-HW :</b>
+<b>-HW 8 part2:</b> Creating a sales receipt that asks for an item, a quantity and a price until the user enters -99. At the end the program prints the receipt.
 </br>
 
-<b>-HW :</b>
-
-
-
-
-
+<b>-HW 9 part1:</b>  User enters an interger and the program prints the same interger flipped and splitted.
 </br>
-<b>-HW :</b>
+
+<b>-HW 9 part2:</b> Fibbonacci sequence. Showing the first X numbers of the seqeunce. X entered by the user.
+</br>
+
+<b>-HW 9 part3:</b> Program that asks for a number in base 4 and validates it and converts it to base 10.
+</br>
+
+<b>-HW 9 part4:</b> Creating the given pattern with nested loops.
+</br>
+
+
+
+
