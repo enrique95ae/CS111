@@ -1,7 +1,7 @@
 /*
  NAME: Enrique Alonso Esposito
  DATE: 10/11/2016
- Program description:
+ Program description: program asks for 100 integers. At the end it will output the smallest and greatest of them.
 */
 
 #include <iostream>
