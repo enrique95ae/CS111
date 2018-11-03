@@ -2,7 +2,8 @@
  NAME:  Enrique Alonso Esposito
  DATE: 09/27/2016
  ASSIGNMENT: HW5 Question 2
- Program Description:  The program ask for an operation, then generates 3 random numbers (0-100) and then waits until the user enters the answer to show if it is correct or not.
+ Program Description:  The program ask for an operation, then generates 3 random numbers (0-100) and then waits 
+ until the user enters the answer to show if it is correct or not.
 */
 
 #include <iostream>
