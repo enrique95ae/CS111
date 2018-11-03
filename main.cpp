@@ -28,9 +28,7 @@ int main(){
     cout << "The total of the sale is: " << totalSale << endl;
     cout << "The tax total is: " << totalTax << endl;
     cout << "The total of the sale plus the taxes is: " << totalSaleTax << endl;
-    
-    
-    
+  
     return 0;
 }
 
