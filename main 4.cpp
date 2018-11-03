@@ -4,10 +4,8 @@
  Program Description: Creating the given pattern.
 */
 
-//////
 //TO FIX:
 //LAST LINE THE PROGRAM SKIPS THE LAST NUMBER
-//////
 
 
 #include <iostream>
@@ -28,12 +26,8 @@ int main() {
                 if(aux+j>6)
                     break;
 
-                cout << j ;
-     
-        }
-        
-        
-        
+                cout << j ;    
+        }      
         cout << endl ;
     }
     
