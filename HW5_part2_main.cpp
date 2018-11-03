@@ -28,8 +28,6 @@ int main() {
     number2 = 1+rand()%(100-1);
     number3 = 1+rand()%(100-1);
     
-    
-    
     if(option=='+'){
         cout << "You have entered: " << option << " solve it for the following numbers: " << endl ;
         cout << "Number 1: " << number1 << endl;
@@ -102,9 +100,7 @@ int main() {
         }
     }else{
         cout << "You have not entered a valid operation!" << endl ;
-    }
-
-    
+    } 
 
     return 0;
 }
