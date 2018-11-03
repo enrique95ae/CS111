@@ -9,7 +9,7 @@ A list of the HW assignments as well as a brief description is available towards
     
       
 HW list and description:  
--HW3: Declaring variables and initializing them to some values. Performing some calculations and outputing the result.  
+<b>-HW3:</b> Declaring variables and initializing them to some values. Performing some calculations and outputing the result.  
 -HW4 part1: Declaring constants. Promping the user to enter data. Performing calculations. Displaying the results.  
 -HW4 part2: Declaring constants. Promping the user to enter data. Performing calculations. Displaying the results.  
 -HW5 part1: Mobile provider. Calculating the clients bill depending on their plan and the amount of minutes used.  
